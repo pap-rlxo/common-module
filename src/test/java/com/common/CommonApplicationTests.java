@@ -8,7 +8,6 @@ class CommonApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("FOR TEST");
     }
 
 }
